@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ZAP-101",
+    "title": "Northwind dock camera layout",
+    "assignee": "weilin",
+    "status": "Done",
+    "due": "2026-10-22",
+    "note": "Layout v2 in Drive"
+  },
+  {
+    "id": "ZAP-102",
+    "title": "Northwind price",
+    "assignee": null,
+    "status": "Todo",
+    "due": "2026-10-22",
+    "note": "Maria asked for price by Thu"
+  },
+  {
+    "id": "ZAP-103",
+    "title": "Northwind layout",
+    "assignee": null,
+    "status": "Todo",
+    "due": null,
+    "note": "Duplicate of ZAP-101?"
+  },
+  {
+    "id": "ZAP-104",
+    "title": "Book next Northwind call with Tom Reyes",
+    "assignee": null,
+    "status": "Todo",
+    "due": null,
+    "note": ""
+  },
+  {
+    "id": "ZAP-105",
+    "title": "Northwind one-pager for VP",
+    "assignee": null,
+    "status": "Backlog",
+    "due": null,
+    "note": ""
+  },
+  {
+    "id": "ZAP-110",
+    "title": "Harbor Point: relocate camera 3 (new rack in the way)",
+    "assignee": "weilin",
+    "status": "In Progress",
+    "due": "2026-11-02",
+    "note": "Waiting on Raj's photos"
+  },
+  {
+    "id": "ZAP-111",
+    "title": "Harbor Point: IP addresses for 6 cameras",
+    "assignee": "weilin",
+    "status": "Todo",
+    "due": "2026-11-02",
+    "note": ""
+  },
+  {
+    "id": "ZAP-120",
+    "title": "Crestline one-pager",
+    "assignee": null,
+    "status": "Todo",
+    "due": "2026-11-02",
+    "note": "Promised by Dana"
+  },
+  {
+    "id": "ZAP-121",
+    "title": "Crestline call clashes with Harbor install",
+    "assignee": null,
+    "status": "Backlog",
+    "due": null,
+    "note": ""
+  },
+  {
+    "id": "ZAP-130",
+    "title": "Onboard Jordan Lee: accounts, laptop, first task",
+    "assignee": null,
+    "status": "Todo",
+    "due": "2026-10-25",
+    "note": "Starts Mon 26 Oct"
+  },
+  {
+    "id": "ZAP-140",
+    "title": "Bayview night glare false alerts",
+    "assignee": "weilin",
+    "status": "In Progress",
+    "due": null,
+    "note": "Night mask on cams 2 and 5"
+  },
+  {
+    "id": "ZAP-141",
+    "title": "Bayview pilot pass bar (signed)",
+    "assignee": null,
+    "status": "Todo",
+    "due": null,
+    "note": ""
+  },
+  {
+    "id": "ZAP-142",
+    "title": "Bayview weekly report (Fridays)",
+    "assignee": null,
+    "status": "Backlog",
+    "due": null,
+    "note": ""
+  },
+  {
+    "id": "ZAP-150",
+    "title": "Cedar Fund: pilot numbers + 2 references",
+    "assignee": "sam",
+    "status": "Todo",
+    "due": "2026-10-28",
+    "note": "Ask customers first"
+  },
+  {
+    "id": "ZAP-160",
+    "title": "Reimburse Wei Lin $640",
+    "assignee": null,
+    "status": "Backlog",
+    "due": null,
+    "note": ""
+  },
+  {
+    "id": "ZAP-161",
+    "title": "Document how deploy alerts are set up",
+    "assignee": null,
+    "status": "Backlog",
+    "due": null,
+    "note": "Alex on leave"
+  },
+  {
+    "id": "ZAP-170",
+    "title": "Bayview case study approval",
+    "assignee": "priya",
+    "status": "In Progress",
+    "due": null,
+    "note": "Lisa wants draft + photos"
+  },
+  {
+    "id": "ZAP-171",
+    "title": "30s night-shift clip for Monday post",
+    "assignee": null,
+    "status": "Todo",
+    "due": "2026-10-26",
+    "note": ""
+  }
+]

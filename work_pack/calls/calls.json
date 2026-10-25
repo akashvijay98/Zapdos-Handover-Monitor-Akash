@@ -1,0 +1,105 @@
+[
+  {
+    "id": "C01",
+    "title": "Northwind Cold Storage: dock camera layout",
+    "start": "2026-10-20T18:00:00-05:00",
+    "attendees": [
+      "Sam Rivera",
+      "Maria Gomez (Ops Lead, Northwind Cold Storage)"
+    ],
+    "notes": "Maria runs 12 dock doors at their Dallas cold-storage DC. Pallets get damaged at the doors and nobody can say which shift or which carrier did it.\n- She wants a camera layout for doors 1 to 12 and a price, both by Thursday 22 Oct.\n- Her site manager, Tom Reyes, has to be on the next call. He signs off on anything mounted on the building.\n- She asked for a one-pager on pallet-damage tracking she can forward to her VP.\n- Sam: \"We'll get you the layout and a number by Thursday.\" Sam is flying Thursday into Friday."
+  },
+  {
+    "id": "C02",
+    "title": "Harbor Point Yard: install planning",
+    "start": "2026-10-21T09:00:00+08:00",
+    "attendees": [
+      "Wei Lin Tan",
+      "Raj Kumar (Site Supervisor, Harbor Point Yard)",
+      "Ken Ong (IT, Harbor Point Yard)"
+    ],
+    "notes": "Install is set for Tuesday 3 Nov, 14:00 to 16:30 Singapore time. 6 cameras on the paint shop.\n- Ken (IT) still has to send the IP range and subnet for the cameras.\n- A new storage rack now blocks camera 3's view of bay C. Raj will WhatsApp photos. Wei Lin to propose a new spot for camera 3.\n- Raj asked if we can start at 13:30 instead."
+  },
+  {
+    "id": "C03",
+    "title": "Crestline Data Centers: intro",
+    "start": "2026-10-21T16:00:00-05:00",
+    "attendees": [
+      "Dana Brooks",
+      "Farah Aziz (Project Director, Crestline Data Centers, Singapore)"
+    ],
+    "notes": "New lead. Building a data centre in Singapore and wants to track fit-out progress floor by floor.\n- Farah wants a proper call with our engineer. Dana booked Tuesday 3 Nov, 15:00 Singapore time.\n- Dana promised a one-pager by email before that call. Only Sam was copied on that email, not Wei Lin.\n- Farah prefers WhatsApp for quick questions."
+  },
+  {
+    "id": "C04",
+    "title": "Welcome call: Jordan Lee, new ML engineer",
+    "start": "2026-10-22T10:00:00-05:00",
+    "attendees": [
+      "Sam Rivera",
+      "Jordan Lee (new hire)"
+    ],
+    "notes": "Strong interview. Built video pipelines at a robotics startup.\n- Jordan accepted and starts Monday 26 Oct, 9am Austin.\n- Needs Slack, Linear and email accounts, a laptop, a first task and a buddy. Wei Lin is the buddy.\n- Sam: \"We'll send your logins and first-week plan before the weekend.\"\n- Sam flew out at 1pm the same day."
+  },
+  {
+    "id": "C05",
+    "title": "Bayview Freight DC: pilot check-in",
+    "start": "2026-10-22T20:00:00+08:00",
+    "attendees": [
+      "Wei Lin Tan",
+      "Chris Hale (Ops Manager, Bayview Freight DC, Houston)"
+    ],
+    "notes": "Pilot week 3.\n- Night shift is getting false alerts: glare from the dock lights after 10pm. Chris counted 14 on Wednesday night.\n- The pilot pass bar (what counts as success) was never signed. Chris wants it in writing before the pilot review.\n- Chris wants a weekly report every Friday.\n- Pass bar and anything contractual goes through Sam."
+  },
+  {
+    "id": "C06",
+    "title": "Cedar Fund: follow-up",
+    "start": "2026-10-22T09:00:00-05:00",
+    "attendees": [
+      "Sam Rivera",
+      "Rachel Kim (Partner, Cedar Fund)"
+    ],
+    "notes": "Investor follow-up.\n- Rachel wants updated pilot numbers and 2 customer references by Wednesday 28 Oct.\n- References need the customer's permission first. Ask before sharing any contact.\n- She'd like a 20-minute call with the engineer to understand the tech."
+  },
+  {
+    "id": "C07",
+    "title": "Ridgeline Castings: discovery",
+    "start": "2026-10-23T15:00:00-05:00",
+    "attendees": [
+      "Dana Brooks",
+      "Omar Haddad (Plant Manager, Ridgeline Castings, Texas)"
+    ],
+    "notes": "Foundry. Wants one record per casting: which mold, which shift, any defect, with the picture.\n- Asked for a price range and a site visit next week.\n- Dana: \"Let me check calendars and come back to you.\" Nothing booked yet.\n- Pricing comes from Sam."
+  },
+  {
+    "id": "C08",
+    "title": "Content sync",
+    "start": "2026-10-22T09:00:00+08:00",
+    "attendees": [
+      "Priya Nair",
+      "Sam Rivera"
+    ],
+    "notes": "- Bayview case study: draft is ready, but Bayview has to approve it before anything goes public.\n- LinkedIn post planned for Monday 26 Oct. Priya needs a 30-second clip of the night-shift view from Wei Lin.\n- Northwind one-pager: Priya can make it if someone tells her what Maria asked for."
+  },
+  {
+    "id": "C09",
+    "title": "Optix Camera Supply: quote for Northwind",
+    "start": "2026-10-24T09:00:00-05:00",
+    "attendees": [
+      "Sam Rivera",
+      "Ben Ortiz (Sales, Optix Camera Supply)"
+    ],
+    "notes": "- Quote for 12 cameras for the Northwind docks: $4,680 total, 2-week lead time. [fictional]\n- They need a PO by Tuesday 27 Oct to hold stock. 50% upfront (test payment only tonight).\n- The camera model has to match Wei Lin's layout. Wei Lin has not seen this quote."
+  },
+  {
+    "id": "C10",
+    "title": "Internal stand-up",
+    "start": "2026-10-21T19:00:00-05:00",
+    "attendees": [
+      "Sam Rivera",
+      "Wei Lin Tan",
+      "Dana Brooks",
+      "Priya Nair"
+    ],
+    "notes": "- Wei Lin paid $640 out of pocket for the Harbor Point site trip. Needs Sam's approval to reimburse.\n- The deploy server went down on Tuesday night. It came back, but nobody knows how the alerts were set up. Alex set them up and is on two weeks' leave.\n- Dana: Crestline call booked for Tue 3 Nov 15:00 SGT.\n- Wei Lin: Harbor Point install is Tue 3 Nov 14:00 to 16:30 SGT."
+  }
+]

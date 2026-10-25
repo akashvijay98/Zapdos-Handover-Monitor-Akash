@@ -1,0 +1,63 @@
+[
+  {
+    "id": "sam",
+    "name": "Sam Rivera",
+    "role": "Founder",
+    "city": "Austin",
+    "tz": "America/Chicago",
+    "email": "sam@zapdemo.example",
+    "slack": "@sam",
+    "owns": [
+      "sales",
+      "pricing",
+      "investors",
+      "hiring decisions",
+      "approvals and payments"
+    ]
+  },
+  {
+    "id": "weilin",
+    "name": "Wei Lin Tan",
+    "role": "Engineer",
+    "city": "Singapore",
+    "tz": "Asia/Singapore",
+    "email": "weilin@zapdemo.example",
+    "slack": "@weilin",
+    "owns": [
+      "installs",
+      "camera layouts",
+      "deploys and servers",
+      "pilot delivery",
+      "onboarding new engineers"
+    ]
+  },
+  {
+    "id": "dana",
+    "name": "Dana Brooks",
+    "role": "Sales caller",
+    "city": "Austin",
+    "tz": "America/Chicago",
+    "email": "dana@zapdemo.example",
+    "slack": "@dana",
+    "owns": [
+      "discovery calls",
+      "booking meetings",
+      "lead follow-ups"
+    ]
+  },
+  {
+    "id": "priya",
+    "name": "Priya Nair",
+    "role": "Content",
+    "city": "Singapore",
+    "tz": "Asia/Singapore",
+    "email": "priya@zapdemo.example",
+    "slack": "@priya",
+    "owns": [
+      "case studies",
+      "LinkedIn posts",
+      "videos",
+      "one-pagers"
+    ]
+  }
+]

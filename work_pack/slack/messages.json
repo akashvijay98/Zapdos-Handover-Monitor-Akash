@@ -1,0 +1,98 @@
+[
+  {
+    "channel": "#standups",
+    "user": "weilin",
+    "at": "2026-10-21T09:05:00+08:00",
+    "text": "Harbor Point install locked: Tue 3 Nov 14:00-16:30 SGT. Waiting on Ken for IPs."
+  },
+  {
+    "channel": "#sales",
+    "user": "dana",
+    "at": "2026-10-21T16:45:00-05:00",
+    "text": "Booked Crestline Data Centers: Tue 3 Nov 15:00 SGT with Farah. Need Wei Lin on it."
+  },
+  {
+    "channel": "#sales",
+    "user": "sam",
+    "at": "2026-10-21T18:30:00-05:00",
+    "text": "Northwind wants layout + price by Thu. I'll do the price. @weilin can you do the layout?"
+  },
+  {
+    "channel": "#sales",
+    "user": "weilin",
+    "at": "2026-10-22T11:00:00+08:00",
+    "text": "Northwind layout v2 done: 12 doors, 12 cameras, one per door, mounted 4m high. In Drive. Waiting on price."
+  },
+  {
+    "channel": "#general",
+    "user": "sam",
+    "at": "2026-10-22T12:40:00-05:00",
+    "text": "Flying today 1pm, back Saturday. Spotty Wi-Fi."
+  },
+  {
+    "channel": "#hiring",
+    "user": "sam",
+    "at": "2026-10-22T11:05:00-05:00",
+    "text": "Jordan accepted, starts Monday! Someone please set up accounts and a first-week plan. Wei Lin is buddy."
+  },
+  {
+    "channel": "#deploys",
+    "user": "weilin",
+    "at": "2026-10-20T11:50:00+08:00",
+    "text": "deploy-api went down overnight, back now. Does anyone know how the alerts are wired? Alex set them up."
+  },
+  {
+    "channel": "#deploys",
+    "user": "dana",
+    "at": "2026-10-20T19:10:00-05:00",
+    "text": "No idea, sorry."
+  },
+  {
+    "channel": "#general",
+    "user": "weilin",
+    "at": "2026-10-21T19:20:00+08:00",
+    "text": "I paid $640 for the Harbor Point trip (taxi + hotel). Who approves reimbursements?"
+  },
+  {
+    "channel": "#content",
+    "user": "priya",
+    "at": "2026-10-23T17:40:00+08:00",
+    "text": "Need a 30s night-shift clip from Bayview for Monday's post. @weilin when you can."
+  },
+  {
+    "channel": "#content",
+    "user": "priya",
+    "at": "2026-10-23T17:45:00+08:00",
+    "text": "Also happy to make the Northwind one-pager, just need to know what Maria asked for."
+  },
+  {
+    "channel": "#sales",
+    "user": "dana",
+    "at": "2026-10-23T15:50:00-05:00",
+    "text": "Ridgeline wants a site visit next week + ballpark price. I'll check calendars."
+  },
+  {
+    "channel": "#sales",
+    "user": "sam",
+    "at": "2026-10-23T18:00:00-05:00",
+    "text": "I'll handle Ridgeline pricing when I land."
+  },
+  {
+    "channel": "#pilots",
+    "user": "weilin",
+    "at": "2026-10-23T08:30:00+08:00",
+    "text": "Bayview glare: 14 false alerts after 10pm. Trying a night mask on cams 2 and 5."
+  },
+  {
+    "channel": "dm:sam-weilin",
+    "user": "weilin",
+    "at": "2026-10-23T09:00:00+08:00",
+    "text": "Bayview wants the pass bar signed before the review. That's yours."
+  },
+  {
+    "channel": "#sales",
+    "user": "dana",
+    "at": "2026-10-23T09:00:00-05:00",
+    "text": "Sent Crestline the one-pager? @sam you were cc'd, did it go?"
+  }
+]
